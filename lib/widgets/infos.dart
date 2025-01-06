@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:movies/models/movie.dart';
 import 'package:movies/utils/utils.dart';
 

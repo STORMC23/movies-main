@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:movies/api/api_service.dart';
 import 'package:movies/models/actor.dart';
-import 'package:movies/models/movie.dart';
 
 class SearchController1 extends GetxController {
   TextEditingController searchController = TextEditingController();
